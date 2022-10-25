@@ -1,18 +1,19 @@
 [
-    {
-        "id":"0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id":"web",
-        "name":"Advance Wordpress Development",
-        "title": "this is demo title to this course",
-        "thumbnail":"https://sorobindu.com/wp-content/uploads/2022/06/wp-advance.png",
-        "ratings":{
-            "number": 4.5
+  {
+    "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "web",
+    "name": "Advance Wordpress Development",
+    "regularPrice":"5500",
+    "mainPrice":"4700",
+    "thumbnail": "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg",
+    "ratings": {
+      "number": 4.5
     },
     "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly",
-    "course_description":{
-        "duration":"3.5 Month, 40 Live Class, Class Duration(2-3 hours), 3 Class per week.",
-        "Certificate":"After Complete all the class & Final exam and then Certificate.",
-       "topics":[
+    "course_description": {
+      "duration": "3.5 Month, 40 Live Class, Class Duration(2-3 hours), 3 Class per week.",
+      "Certificate": "After Complete all the class & Final exam and then Certificate.",
+      "topics": [
         "basic Html Css",
         "javaScript Basic",
         "Bootstrap 5 and Tailwind Css",
@@ -21,13 +22,158 @@
         "Woo-commerce",
         "Learning Management system",
         "total 14+ full Project"
-       ],
-        "support":{
-            "phone":"01718-****87",
-            "email":"co****@gmail.com"
-    },
-    "instructor":"Mahamodul Hasan Moon"
-}
+      ],
+      "support": {
+        "phone": "01718-****87",
+        "email": "co****@gmail.com"
+      },
+      "instructor": "Mahamodul Hasan Moon"
     }
+  },
+  {
+    "id": "0282e0e58ac404fbd15261f11c2ab6a",
+    "category_id": "web",
+    "name": "Advance JavaScript Tutorial",
+    "regularPrice":"4700",
+    "mainPrice":"2200",
+    "thumbnail": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg",
+    "ratings": {
+      "number": 4.5
+    },
+    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly",
+    "course_description": {
+      "duration": "3.5 Month, 40 Live Class, Class Duration(2-3 hours), 3 Class per week.",
+      "Certificate": "After Complete all the class & Final exam and then Certificate.",
+      "topics": [
+       
+        "Variable,condition,loop,array,function",
+        "ES6 and ES7",
+        "Play With Dom",
+        "Basic Color Code generator Project"
+       
+      ],
+      "support": {
+        "phone": "01718-****87",
+        "email": "co****@gmail.com"
+      },
+      "instructor": "Mahamodul Hasan Moon"
+    }
+  },
+  {
+    "id": "0282e0e58ac404fbd1521f11c2ab6a",
+    "category_id": "app",
+    "name": "React Native (Mobile and IOS)",
+    "regularPrice":"6700",
+    "mainPrice":"6400",
+    "thumbnail": "https://img.freepik.com/free-vector/workout-tracker-app-interface_23-2148653679.jpg",
+    "ratings": {
+      "number": 4.5
+    },
+    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly",
+    "course_description": {
+      "duration": "3.5 Month, 40 Live Class, Class Duration(2-3 hours), 3 Class per week.",
+      "Certificate": "After Complete all the class & Final exam and then Certificate.",
+      "topics": [
+       
+        "Variable,condition,loop,array,function",
+        "ES6 and ES7",
+        "Play With Dom",
+        "Basic Color Code generator Project"
+       
+      ],
+      "support": {
+        "phone": "01718-****87",
+        "email": "co****@gmail.com"
+      },
+      "instructor": "Mahamodul Hasan Moon"
+    }
+  },
+  {
+    "id": "0282e058ac404fbd15261f11c2ab6a",
+    "category_id": "graphics",
+    "name": "Graphics Design",
+    "regularPrice":"6700",
+    "mainPrice":"6400",
+    "thumbnail": "https://img.freepik.com/free-vector/cartoon-graphic-design-landing-page_52683-70881.jpg",
+    "ratings": {
+      "number": 4.5
+    },
+    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly",
+    "course_description": {
+      "duration": "3.5 Month, 40 Live Class, Class Duration(2-3 hours), 3 Class per week.",
+      "Certificate": "After Complete all the class & Final exam and then Certificate.",
+      "topics": [
+       
+        "Logo Design",
+        "Banner Design",
+        "Animation",
+        "Motion Graphics"
+       
+      ],
+      "support": {
+        "phone": "01718-****87",
+        "email": "co****@gmail.com"
+      },
+      "instructor": "Mahamodul Hasan Moon"
+    }
+  },
+  {
+    "id": "0282e058ac404fbd15261f11c2aa",
+    "category_id": "graphics",
+    "name": "Motion Graphics",
+    "regularPrice":"6700",
+    "mainPrice":"6500",
+    "thumbnail": "https://img.freepik.com/free-vector/computer-monitor-graphic-animator-creating-video-game-modeling-motion-processing-video-file-using-professional-editor-vector-illustration-graphic-design-art-designer-workplace-concept_74855-13038.jpg",
+    "ratings": {
+      "number": 4.5
+    },
+    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly",
+    "course_description": {
+      "duration": "3.5 Month, 40 Live Class, Class Duration(2-3 hours), 3 Class per week.",
+      "Certificate": "After Complete all the class & Final exam and then Certificate.",
+      "topics": [
+       
+        "Logo Design",
+        "Banner Design",
+        "Animation",
+        "Motion Graphics"
+       
+      ],
+      "support": {
+        "phone": "01718-****87",
+        "email": "co****@gmail.com"
+      },
+      "instructor": "Mahamodul Hasan Moon"
+    }
+  },
 
+  {
+    "id": "028254e058ac404fbd15261f11c2aa",
+    "category_id": "app",
+    "name": "Flutter App development",
+    "regularPrice":"6700",
+    "mainPrice":"6500",
+    "thumbnail": "https://img.freepik.com/free-vector/various-screens-violet-public-transport-mobile-app_23-2148704862.jpg",
+    "ratings": {
+      "number": 4.5
+    },
+    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly",
+    "course_description": {
+      "duration": "3.5 Month, 40 Live Class, Class Duration(2-3 hours), 3 Class per week.",
+      "Certificate": "After Complete all the class & Final exam and then Certificate.",
+      "topics": [
+       
+        "Logo Design",
+        "Banner Design",
+        "Animation",
+        "Motion Graphics"
+       
+      ],
+      "support": {
+        "phone": "01718-****87",
+        "email": "co****@gmail.com"
+      },
+      "instructor": "Mahamodul Hasan Moon"
+    }
+  }
 ]
