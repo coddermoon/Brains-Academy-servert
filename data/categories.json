@@ -1,19 +1,19 @@
 [
-    {
-        "category":"graphics",
-        "name":"Graphics Design"
-    },
-    {
-        "category":"web",
-        "name":"Web Design"
-    },
+  {
+    "category": "all",
+    "name": "All"
+  },
+  {
+    "category": "graphics",
+    "name": "Graphics Design"
+  },
+  {
+    "category": "web",
+    "name": "Web Development"
+  },
 
-    {
-        "category":"app",
-        "name":"App development"
-    },
-    {
-        "category":"all",
-        "name":"All"
-    }
+  {
+    "category": "app",
+    "name": "App development"
+  }
 ]
