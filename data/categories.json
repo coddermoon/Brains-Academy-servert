@@ -1,19 +1,19 @@
 [
     {
-        "id":"01",
+        "category":"graphics",
         "name":"Graphics Design"
     },
     {
-        "id":"02",
+        "category":"web",
         "name":"Web Design"
     },
 
     {
-        "id":"03",
+        "category":"app",
         "name":"App development"
     },
     {
-        "id":"04",
-        "name":"App development"
+        "category":"all",
+        "name":"All"
     }
 ]
