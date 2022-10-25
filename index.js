@@ -34,6 +34,16 @@ app.get('/category/:id', (req, res) => {
  
 })
 
+// find specific courses
+
+app.get('/course/:id',(req,res)=>{
+    const id = req.params.id;
+    const singleCourseWithId =  courses.find(course=> id=== course.id)
+    res.send(singleCourseWithId)
+})
+
+
+
 
 app.listen(port,()=>{
     console.log('listening to Port ',port)
