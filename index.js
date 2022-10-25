@@ -5,7 +5,7 @@ const categories = require('./data/categories.json')
 const courses = require('./data/courses.json')
 const app = express()
 app.use(cors())
-const port = 5000
+const port = process.env.PORT|| 5000
 
 app.get('/',(req,res)=>{
     res.send('this is homepage')
@@ -25,13 +25,13 @@ app.get('/categories',(req,res)=>{
 
 app.get('/category/:id', (req, res) => {
     const id = req.params.id;
-    if (id === 'all') {
-        res.send(courses);
+    if (id=== "all") {
+        res.send(courses)
     }
-    else {
-        const categoryCourses = news.filter(n => n.category_id === id);
-        res.send(categoryCourses);
-    }
+    const selectedCourse = courses.filter(course=> id=== course.category_id)
+    
+    res.send(selectedCourse)
+ 
 })
 
 
