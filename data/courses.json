@@ -12,7 +12,16 @@
     "course_description":{
         "duration":"3.5 Month, 40 Live Class, Class Duration(2-3 hours), 3 Class per week.",
         "Certificate":"After Complete all the class & Final exam and then Certificate.",
-       
+       "topics":[
+        "basic Html Css",
+        "javaScript Basic",
+        "Bootstrap 5 and Tailwind Css",
+        "Wordpress",
+        "Elementor wp bekary and gutenburg page builder",
+        "Woo-commerce",
+        "Learning Management system",
+        "total 14+ full Project"
+       ],
         "support":{
             "phone":"01718-****87",
             "email":"co****@gmail.com"
