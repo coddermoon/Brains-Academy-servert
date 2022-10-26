@@ -3,6 +3,7 @@ const cors = require('cors')
 // export all dependencies datta
 const categories = require('./data/categories.json')
 const courses = require('./data/courses.json')
+const blogs = require('./data/blogs.json')
 const app = express()
 app.use(cors())
 const port = process.env.PORT|| 5000
@@ -15,6 +16,10 @@ app.get('/',(req,res)=>{
 // coursesw
 app.get('/courses',(req,res)=>{
     res.send(courses)
+})
+// blogs
+app.get('/blogs',(req,res)=>{
+    res.send(blogs)
 })
 // courses page
 app.get('/categories',(req,res)=>{
