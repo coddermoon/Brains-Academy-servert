@@ -15,5 +15,9 @@
   {
     "category": "app",
     "name": "App development"
+  },
+  {
+    "category": "Language",
+    "name": "language"
   }
 ]
