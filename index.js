@@ -1,5 +1,7 @@
+const { MongoClient, ServerApiVersion } = require('mongodb');
 const express = require('express');
 const cors = require('cors')
+require('dotenv').config()
 // export all dependencies datta
 const categories = require('./data/categories.json')
 const courses = require('./data/courses.json')
@@ -19,7 +21,26 @@ const store_id = process.env.storeId
 const store_passwd = process.env.storePass
 const is_live = false 
 
+// database connections
 
+const uri = process.env.DB_URI
+
+const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
+
+const run = async (req, res) => {
+
+    try{
+
+        
+
+    }finally{
+
+    }
+
+    
+}
+
+run().catch(console.dir);
 
 
 const port = process.env.PORT|| 5000
