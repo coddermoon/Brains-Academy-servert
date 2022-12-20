@@ -6,6 +6,22 @@ const courses = require('./data/courses.json')
 const blogs = require('./data/blogs.json')
 const app = express()
 app.use(cors())
+
+/**
+ *  === === payment method ===
+ * 
+ * 
+ */
+
+const SSLCommerzPayment = require('sslcommerz-lts')
+
+const store_id = process.env.storeId
+const store_passwd = process.env.storePass
+const is_live = false 
+
+
+
+
 const port = process.env.PORT|| 5000
 
 app.get('/',(req,res)=>{
