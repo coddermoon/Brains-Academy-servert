@@ -7,6 +7,7 @@ const categories = require('./data/categories.json')
 const courses = require('./data/courses.json')
 const blogs = require('./data/blogs.json')
 const app = express()
+app.use(express.json())
 app.use(cors())
 
 /**
@@ -31,7 +32,14 @@ const run = async (req, res) => {
 
     try{
 
+     app.post('/orders',async(req,res) => {
+
+        const orderData = req.body
+        console.log(orderData);
         
+
+
+     } )   
 
     }finally{
 
